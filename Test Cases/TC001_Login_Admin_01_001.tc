@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ตรวจสอบ Login กรณี Admin</description>
+   <name>TC001_Login_Admin_01_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a020842-4920-458b-8ead-0b9cb33e900c</testCaseGuid>
+</TestCaseEntity>

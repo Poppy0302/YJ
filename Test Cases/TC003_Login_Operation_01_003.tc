@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ตรวจสอบ Login กรณี Operation</description>
+   <name>TC003_Login_Operation_01_003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eee08fff-f7de-4ec7-ab19-14636c211579</testCaseGuid>
+</TestCaseEntity>

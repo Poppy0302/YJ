@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pass</name>
+   <tag></tag>
+   <elementGuidId>9ad6f2d2-4623-45e9-9341-aadd82c32631</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.justify-content-center > a.btn-custom.btn--primary.ms-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-QC']/div/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0aa9a017-f654-4911-bdd7-c709bcef944a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-custom btn--primary ms-3</value>
+      <webElementGuid>6a21bfdb-cc66-4178-ab4f-de1a7571eccb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/pols/qc?status=qc_pass</value>
+      <webElementGuid>698ae4e1-70ea-4885-9dd4-c4f533c7755d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Pass</value>
+      <webElementGuid>489d24aa-c560-490d-b17d-1e2c559e635c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-QC&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered modal-custom&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;d-flex justify-content-center&quot;]/a[@class=&quot;btn-custom btn--primary ms-3&quot;]</value>
+      <webElementGuid>f99f29b7-8ba3-4697-b147-2d73dd253ae2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-QC']/div/div/div/div/a</value>
+      <webElementGuid>f2cef533-2baa-49e8-b2ba-24825349a99d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Pass')]</value>
+      <webElementGuid>abd43ca5-c8ce-4af4-bab3-ec22eecbfebb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scan for Q.C. Status'])[2]/following::a[1]</value>
+      <webElementGuid>39ed9738-e312-460e-9e75-c9a5ebdd22d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::a[1]</value>
+      <webElementGuid>8c6a15df-0eda-41ae-b51f-0de264e6c7d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fail'])[1]/preceding::a[1]</value>
+      <webElementGuid>6c4a3806-7abd-48b0-9151-13cabec2cafa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warning'])[1]/preceding::a[2]</value>
+      <webElementGuid>33262a78-1481-4a6d-8394-af7464eb1bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pass']/parent::*</value>
+      <webElementGuid>88750525-fe0e-4370-bfe2-28b8addcedc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/pols/qc?status=qc_pass')]</value>
+      <webElementGuid>4924a403-884b-4f8e-ace1-a054d7dccc08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/a</value>
+      <webElementGuid>e8377613-dadf-4e4d-84d7-c4f5317cff24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/pols/qc?status=qc_pass' and (text() = ' Pass' or . = ' Pass')]</value>
+      <webElementGuid>d5645ecd-c3d9-492f-af63-bcfb127938c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

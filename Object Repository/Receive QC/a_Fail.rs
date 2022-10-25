@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Fail</name>
+   <tag></tag>
+   <elementGuidId>115d5f6c-6579-4f3a-abd9-aa450463aba7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.justify-content-center > a.btn-custom.btn--outline-primary.text-decoration-none.ms-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-QC']/div/div/div/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>97c8ce51-211f-4e37-bf14-eda14c034d6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-custom btn--outline-primary text-decoration-none ms-3</value>
+      <webElementGuid>e4e42028-546d-42d1-b120-8e280f06366c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/pols/qc?status=qc_failed</value>
+      <webElementGuid>e24acab3-ff3e-445d-a8a5-5026708d9d9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Fail</value>
+      <webElementGuid>3360dd00-0a57-4509-b8e0-0356f2d66a01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-QC&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered modal-custom&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;d-flex justify-content-center&quot;]/a[@class=&quot;btn-custom btn--outline-primary text-decoration-none ms-3&quot;]</value>
+      <webElementGuid>e82f58a0-878c-47e9-8c46-9c274fa49d52</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-QC']/div/div/div/div/a[2]</value>
+      <webElementGuid>2a9ce7e6-1ddd-4abe-b11d-1eb500f1f279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Fail')]</value>
+      <webElementGuid>bac5fa5d-38d5-41e4-82b3-92b896047bdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pass'])[1]/following::a[1]</value>
+      <webElementGuid>1264c33d-db98-4438-aa8c-ab6dd729222a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scan for Q.C. Status'])[2]/following::a[2]</value>
+      <webElementGuid>ce708f66-31a3-4fa8-a04f-958fa77650b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warning'])[1]/preceding::a[1]</value>
+      <webElementGuid>2070e6ba-d5f2-4905-8390-bc236588b446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::a[1]</value>
+      <webElementGuid>af2f17e5-527d-440d-a631-05e0dd5e3003</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Fail']/parent::*</value>
+      <webElementGuid>a49be171-4f43-4697-b247-e749940e5630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/pols/qc?status=qc_failed')]</value>
+      <webElementGuid>a01b46f3-1205-48b6-aad2-107b43b228fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/a[2]</value>
+      <webElementGuid>ce8e1a9c-cedb-473d-90ad-42ebf0144eb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/pols/qc?status=qc_failed' and (text() = ' Fail' or . = ' Fail')]</value>
+      <webElementGuid>1ad837d4-eab5-47d1-b5e3-de119f7a9645</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

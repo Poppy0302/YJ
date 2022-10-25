@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Generate SKU barcode</name>
+   <tag></tag>
+   <elementGuidId>1ba53505-3edd-4d8b-be40-f870f92e7085</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Generate SKU barcode')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e2d326aa-6867-4a87-ae38-643582b87020</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>668c2638-0318-4e8b-a0fb-89616d82b229</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/pols/74/generate_sku_barcode.pdf</value>
+      <webElementGuid>244722df-09f5-4958-8158-90f9edcba0d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>dd9bc52b-4c18-4f96-b419-2f5486863a0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Generate SKU barcode</value>
+      <webElementGuid>9590f51d-ab5b-417a-911b-f544311c98c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;h-100&quot;]/body[@class=&quot;h-100&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main_content&quot;]/div[@class=&quot;info&quot;]/div[@class=&quot;col-md-12 col-lg-12 mb-3&quot;]/div[@class=&quot;d-flex flex-row-reverse&quot;]/div[@class=&quot;dropdown&quot;]/ul[@class=&quot;dropdown-menu dropdown-menu-end show&quot;]/li[6]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>10881508-bdf6-495d-aec2-5e632ec0913d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Generate SKU barcode')]</value>
+      <webElementGuid>967889f1-e3a8-468d-98cd-c60a37dd73a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery Note for P0-L (Excel)'])[1]/following::a[1]</value>
+      <webElementGuid>10988c75-6480-41fc-b4ae-b640d822d7bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery Note for P0-L'])[1]/following::a[2]</value>
+      <webElementGuid>d09ae5cf-c229-4719-b756-5cbe413efad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[1]/preceding::a[2]</value>
+      <webElementGuid>4c4c3dcf-a9c6-4136-9376-022da7b84d7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Generate SKU barcode']/parent::*</value>
+      <webElementGuid>4080884f-0c4d-41fa-a057-12b5e7218bc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/pols/74/generate_sku_barcode.pdf')]</value>
+      <webElementGuid>6f597d27-d664-4874-9a39-4078ade3ccd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/ul/li[6]/a</value>
+      <webElementGuid>401a44e6-bc46-4e36-b12f-26b2fb02479e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/pols/74/generate_sku_barcode.pdf' and (text() = 'Generate SKU barcode' or . = 'Generate SKU barcode')]</value>
+      <webElementGuid>cadf13f1-a4ee-4996-98e5-a7d226a6e16e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

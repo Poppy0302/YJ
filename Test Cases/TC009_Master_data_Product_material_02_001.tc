@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ตรวจสอบ material กรณี remove material</description>
+   <name>TC009_Master_data_Product_material_02_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f12bf0e-5632-48e5-9b92-89f165f50712</testCaseGuid>
+</TestCaseEntity>

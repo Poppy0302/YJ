@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_PO-C List_fal fa-search color-blue</name>
+   <tag></tag>
+   <elementGuidId>d20dfbf5-4644-435d-8dc2-7d9ba5b24484</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='basic-addon2']/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fal.fa-search.color-blue</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>fb383a19-a4c0-4323-9662-1d406e62e96c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fal fa-search color-blue</value>
+      <webElementGuid>e52d80c6-11bd-4e19-9995-e526f3c76680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f8c058fd-988b-43a1-bf8e-b23068295e37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;basic-addon2&quot;)/button[@class=&quot;btn p-0&quot;]/i[@class=&quot;fal fa-search color-blue&quot;]</value>
+      <webElementGuid>01e03d2a-d220-46d3-9a68-09c1779872fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='basic-addon2']/button/i</value>
+      <webElementGuid>00aa6e09-7c40-4b49-820c-63bc89f06a68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/button/i</value>
+      <webElementGuid>b656d3af-da20-4d3b-a4bf-8ea543bec8d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Qty_fas fa-trash-alt cursor-pointer</name>
+   <tag></tag>
+   <elementGuidId>756811af-582d-409b-b2eb-772777046ba5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product_materials']/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-trash-alt.cursor-pointer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>73008714-b9c8-4c40-af16-1a35a509c723</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-trash-alt cursor-pointer</value>
+      <webElementGuid>154377bc-9499-4e00-a8ee-6007e2873e6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>54567df9-0ce2-4561-bd8c-88cf1a39f8d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product_materials&quot;)/div[@class=&quot;wrapper-div row d-flex align-items-end mt-3 added-by-vanilla-nested&quot;]/a[@class=&quot;vanilla-nested-remove text-danger col-1 mb-3 mt-5&quot;]/i[@class=&quot;fas fa-trash-alt cursor-pointer&quot;]</value>
+      <webElementGuid>4c06e616-d07a-4d41-8068-084215b974b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product_materials']/div/a/i</value>
+      <webElementGuid>80286db6-b7c7-4fc1-8469-efc7925bf568</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/i</value>
+      <webElementGuid>53fe5d13-e975-410c-803f-72a44e763fbe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

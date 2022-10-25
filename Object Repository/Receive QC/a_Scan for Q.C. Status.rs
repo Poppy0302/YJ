@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Scan for Q.C. Status</name>
+   <tag></tag>
+   <elementGuidId>bc553374-261b-464e-bd4b-3f4027336de0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn-custom.btn--primary.ms-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div[2]/div/div[3]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1bca062e-4840-4ef0-8bb0-d78750584d03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-custom btn--primary ms-3</value>
+      <webElementGuid>2397a37f-507d-4d2a-b184-6c74da641971</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>b9567664-1e77-4759-af68-de41ad45894e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-target</name>
+      <type>Main</type>
+      <value>#modal-QC</value>
+      <webElementGuid>e1686804-6478-4f18-beb3-18ea54776bf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Scan for Q.C. Status</value>
+      <webElementGuid>9dd8f50c-a5fc-4c4b-a48b-b4736063cf4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;info&quot;]/div[@class=&quot;boder-blue&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-3 pt-4 pb-5 ps-0&quot;]/a[@class=&quot;btn-custom btn--primary ms-3&quot;]</value>
+      <webElementGuid>72decc49-8f0d-4bea-9855-11f5dfdd4914</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div[2]/div/div[3]/div/a</value>
+      <webElementGuid>f5703187-0b06-4cfd-b5cc-dbed873b43ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Scan for Q.C. Status')]</value>
+      <webElementGuid>9ccf77a1-90f2-4d1a-ab09-c49b49bd927c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report'])[1]/following::a[1]</value>
+      <webElementGuid>bfb0c878-2620-4f44-a7cc-3310d2551626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Packing'])[1]/following::a[2]</value>
+      <webElementGuid>c82c5ef7-779a-4506-b16e-9360c503ca3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Barcode'])[1]/preceding::a[1]</value>
+      <webElementGuid>35b894e1-a1dd-416c-b7d9-6f07e4967198</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leader'])[1]/preceding::a[1]</value>
+      <webElementGuid>e9dd2691-718a-4403-9d60-210dae890cbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Scan for Q.C. Status']/parent::*</value>
+      <webElementGuid>a7866c62-647d-4742-a50f-cd01b217817d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[20]</value>
+      <webElementGuid>b10fddf4-4f63-412b-9906-dadaf915c705</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a</value>
+      <webElementGuid>40a873bf-5f0e-4d69-be66-ee5ebe0f1bde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = ' Scan for Q.C. Status' or . = ' Scan for Q.C. Status')]</value>
+      <webElementGuid>7083513d-d980-4eb6-99a9-4be2bf8157a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

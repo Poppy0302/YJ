@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ตรวจสอบ Report กรณี Filter POL</description>
+   <name>TC045_Report_Report_01_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>092e2af6-0665-423b-be83-ab415dd1818a</testCaseGuid>
+</TestCaseEntity>

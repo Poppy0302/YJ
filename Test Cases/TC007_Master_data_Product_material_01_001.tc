@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ตรวจสอบเพิ่ม material ใน product กรณี เพิ่ม material ใน producy (Inhouse = No)</description>
+   <name>TC007_Master_data_Product_material_01_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f794d750-26f4-427f-aebd-5c8799ae94a7</testCaseGuid>
+</TestCaseEntity>
