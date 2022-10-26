@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>ตรวจสอบ QC กรณี barcode</description>
-   <name>TC023_TC_Receive QC_Pass Failed_01_002</name>
+   <name>TC030_TC_Receive QC_Pass Failed_01_002</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>b57ef63c-888c-4d62-b853-49680bcf8b30</testCaseGuid>

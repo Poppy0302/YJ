@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC037_POC_Display_warning_01_002</name>
+   <name>TC032_TC_Receive QC_Pass Failed_01_004</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>009d1dad-2ce1-47a7-9017-660436fdfd0e</testCaseGuid>
+   <testCaseGuid>adcae779-3493-4495-99d4-7029a9196f6b</testCaseGuid>
 </TestCaseEntity>

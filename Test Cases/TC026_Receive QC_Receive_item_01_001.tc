@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>ตรวจสอบ Receive Item กรณี ตรวจสอบการแสดงผล</description>
-   <name>TC019_Receive QC_Receive_item_01_001</name>
+   <name>TC026_Receive QC_Receive_item_01_001</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>8d339dfe-758c-4439-a5fb-04225ea94eb8</testCaseGuid>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>ตรวจสอบ Report กรณี Filter date</description>
-   <name>TC044_Report_Report_01_001</name>
+   <name>TC051_Report_Report_01_001</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>da436f98-2996-47c0-bac3-7c5d26ba4c68</testCaseGuid>

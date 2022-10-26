@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>ตรวจสอบ QC กรณี ตรวจสอบการแสดงผล</description>
-   <name>TC022_TC_Receive QC_Pass Failed_01_001</name>
+   <name>TC029_TC_Receive QC_Pass Failed_01_001</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>d8115d04-3c78-4736-bff6-36ca23c888da</testCaseGuid>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>ตรวจสอบ Receive Item กรณี accept receive item</description>
-   <name>TC021_Receive QC_Receive_Item_01_003</name>
+   <name>TC028_Receive QC_Receive_Item_01_003</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>d56bcc28-1ca3-4699-aabb-78ff97f453bc</testCaseGuid>

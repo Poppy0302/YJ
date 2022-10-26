@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC025_TC_Receive QC_Pass Failed_01_004</name>
+   <name>TC033_TC_Receive QC_Pass Failed_01_005</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>adcae779-3493-4495-99d4-7029a9196f6b</testCaseGuid>
+   <testCaseGuid>ab4c6791-85a8-4aba-b8e7-59d65027b86b</testCaseGuid>
 </TestCaseEntity>

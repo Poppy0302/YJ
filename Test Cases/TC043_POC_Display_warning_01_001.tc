@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>ตรวจสอบ Display warning import order PO-C  กรณี Ready to process</description>
-   <name>TC036_POC_Display_warning_01_001</name>
+   <name>TC043_POC_Display_warning_01_001</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>9193ad15-9692-431f-992b-7f9aa38b197b</testCaseGuid>
